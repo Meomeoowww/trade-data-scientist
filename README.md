@@ -1,6 +1,6 @@
 # Trade Data Scientist
 
-This repo contains code and supporting documents to the written assessment":
+This repo contains code and supporting documents to the written assessment:
 - Question 1: Export growth and diversification;
 - Question2: Exposure to U.S. Section 338 measures.
 
