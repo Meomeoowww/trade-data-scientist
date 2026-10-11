@@ -1,0 +1,847 @@
+[
+  {
+    "id": "GI",
+    "value": 715.5787406479246,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "NL",
+    "value": 391749510.66470945,
+    "threshold_value": 391749510.66470945
+  },
+  {
+    "id": "ZW",
+    "value": 768295.2129381603,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "ZM",
+    "value": 728438.4727279483,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "ZA",
+    "value": 23356444.260311,
+    "threshold_value": 23356444.260311
+  },
+  {
+    "id": "YE",
+    "value": 427876.95227115444,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "WS",
+    "value": 15583.869445480948,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "VU",
+    "value": 8794.60156861165,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "VN",
+    "value": 80052178.65868703,
+    "threshold_value": 80052178.65868703
+  },
+  {
+    "id": "VE",
+    "value": 6819018.066545745,
+    "threshold_value": 6819018.066545745
+  },
+  {
+    "id": "UZ",
+    "value": 406287.8559092671,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "US",
+    "value": 13172597557.463327,
+    "threshold_value": 13172597557.463327
+  },
+  {
+    "id": "UY",
+    "value": 5949887.317727381,
+    "threshold_value": 5949887.317727381
+  },
+  {
+    "id": "UA",
+    "value": 75386920.29280584,
+    "threshold_value": 75386920.29280584
+  },
+  {
+    "id": "UG",
+    "value": 708046.3527790874,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "TZ",
+    "value": 30117079.23585876,
+    "threshold_value": 30117079.23585876
+  },
+  {
+    "id": "TR",
+    "value": 186831936.85052907,
+    "threshold_value": 186831936.85052907
+  },
+  {
+    "id": "TN",
+    "value": 6582011.522977996,
+    "threshold_value": 6582011.522977996
+  },
+  {
+    "id": "TT",
+    "value": 13704920.585863085,
+    "threshold_value": 13704920.585863085
+  },
+  {
+    "id": "TO",
+    "value": 173.89056738870516,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "TJ",
+    "value": 15549.988151817748,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "TH",
+    "value": 72061684.68320602,
+    "threshold_value": 72061684.68320602
+  },
+  {
+    "id": "TG",
+    "value": 649223.288187955,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "TD",
+    "value": 3809088.6177712088,
+    "threshold_value": 3809088.6177712088
+  },
+  {
+    "id": "SY",
+    "value": 394856.17034848087,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "SC",
+    "value": 139235.8656193731,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "SZ",
+    "value": 139633.76306066566,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "SE",
+    "value": 22222061.657717478,
+    "threshold_value": 22222061.657717478
+  },
+  {
+    "id": "SI",
+    "value": 14692151.35368471,
+    "threshold_value": 14692151.35368471
+  },
+  {
+    "id": "SK",
+    "value": 4133724.017486561,
+    "threshold_value": 4133724.017486561
+  },
+  {
+    "id": "SR",
+    "value": 871721.283769,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "ST",
+    "value": 2215.5549012033584,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "SV",
+    "value": 4209262.223371481,
+    "threshold_value": 4209262.223371481
+  },
+  {
+    "id": "SL",
+    "value": 74792.92669302612,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "SB",
+    "value": 1592.7515332012824,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "SG",
+    "value": 365866476.47796553,
+    "threshold_value": 365866476.47796553
+  },
+  {
+    "id": "SN",
+    "value": 2779284.051574784,
+    "threshold_value": 2779284.051574784
+  },
+  {
+    "id": "SA",
+    "value": 32122980.939464025,
+    "threshold_value": 32122980.939464025
+  },
+  {
+    "id": "RW",
+    "value": 483427.21949579025,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "RU",
+    "value": 160350415.44369555,
+    "threshold_value": 160350415.44369555
+  },
+  {
+    "id": "QA",
+    "value": 10138184.683483418,
+    "threshold_value": 10138184.683483418
+  },
+  {
+    "id": "PF",
+    "value": 104452.20769718438,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "PY",
+    "value": 516050.56711111625,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "PT",
+    "value": 22762164.230542246,
+    "threshold_value": 22762164.230542246
+  },
+  {
+    "id": "PL",
+    "value": 57446786.615154296,
+    "threshold_value": 57446786.615154296
+  },
+  {
+    "id": "PG",
+    "value": 1540206.3477346925,
+    "threshold_value": 1540206.3477346925
+  },
+  {
+    "id": "PH",
+    "value": 37277176.18738144,
+    "threshold_value": 37277176.18738144
+  },
+  {
+    "id": "PE",
+    "value": 45842987.22540694,
+    "threshold_value": 45842987.22540694
+  },
+  {
+    "id": "PA",
+    "value": 16755589.240907585,
+    "threshold_value": 16755589.240907585
+  },
+  {
+    "id": "PK",
+    "value": 51865886.6226827,
+    "threshold_value": 51865886.6226827
+  },
+  {
+    "id": "OM",
+    "value": 22512906.66167184,
+    "threshold_value": 22512906.66167184
+  },
+  {
+    "id": "NZ",
+    "value": 73807931.29808351,
+    "threshold_value": 73807931.29808351
+  },
+  {
+    "id": "NP",
+    "value": 1289903.4349189068,
+    "threshold_value": 1289903.4349189068
+  },
+  {
+    "id": "NO",
+    "value": 33980713.57607356,
+    "threshold_value": 33980713.57607356
+  },
+  {
+    "id": "NI",
+    "value": 3556694.383838076,
+    "threshold_value": 3556694.383838076
+  },
+  {
+    "id": "NG",
+    "value": 18935614.838210482,
+    "threshold_value": 18935614.838210482
+  },
+  {
+    "id": "NE",
+    "value": 559605.494985646,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "MY",
+    "value": 58905218.30256762,
+    "threshold_value": 58905218.30256762
+  },
+  {
+    "id": "MW",
+    "value": 511596.01611316326,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "MU",
+    "value": 28904.769126674706,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "MR",
+    "value": 691871.320740692,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "MZ",
+    "value": 3944216.024969921,
+    "threshold_value": 3944216.024969921
+  },
+  {
+    "id": "MN",
+    "value": 1175406.7574291655,
+    "threshold_value": 1175406.7574291655
+  },
+  {
+    "id": "MM",
+    "value": 2712072.2060727403,
+    "threshold_value": 2712072.2060727403
+  },
+  {
+    "id": "MT",
+    "value": 1461277.240777117,
+    "threshold_value": 1461277.240777117
+  },
+  {
+    "id": "ML",
+    "value": 933524.1166524146,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "MK",
+    "value": 75360.12181655857,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "MX",
+    "value": 443495296.29327905,
+    "threshold_value": 443495296.29327905
+  },
+  {
+    "id": "MV",
+    "value": 2368135.7637576303,
+    "threshold_value": 2368135.7637576303
+  },
+  {
+    "id": "MG",
+    "value": 774689.6738714005,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "MD",
+    "value": 27961.41337397146,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "MA",
+    "value": 29967703.9438909,
+    "threshold_value": 29967703.9438909
+  },
+  {
+    "id": "LV",
+    "value": 1547080.2213673957,
+    "threshold_value": 1547080.2213673957
+  },
+  {
+    "id": "LU",
+    "value": 16102076.50129247,
+    "threshold_value": 16102076.50129247
+  },
+  {
+    "id": "LT",
+    "value": 36391140.973834455,
+    "threshold_value": 36391140.973834455
+  },
+  {
+    "id": "LK",
+    "value": 15458755.9592642,
+    "threshold_value": 15458755.9592642
+  },
+  {
+    "id": "LC",
+    "value": 47234.602652,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "LY",
+    "value": 1347616.4089635126,
+    "threshold_value": 1347616.4089635126
+  },
+  {
+    "id": "LR",
+    "value": 11270.858947213108,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "LB",
+    "value": 1409451.5341515017,
+    "threshold_value": 1409451.5341515017
+  },
+  {
+    "id": "KW",
+    "value": 6788237.734435377,
+    "threshold_value": 6788237.734435377
+  },
+  {
+    "id": "KR",
+    "value": 382713151.86128217,
+    "threshold_value": 382713151.86128217
+  },
+  {
+    "id": "KI",
+    "value": 5347.278856260554,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "KH",
+    "value": 838924.3030469195,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "KG",
+    "value": 981519.172023129,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "KE",
+    "value": 21547193.934002772,
+    "threshold_value": 21547193.934002772
+  },
+  {
+    "id": "KZ",
+    "value": 2692410.3353646933,
+    "threshold_value": 2692410.3353646933
+  },
+  {
+    "id": "JP",
+    "value": 585716370.1312065,
+    "threshold_value": 585716370.1312065
+  },
+  {
+    "id": "JO",
+    "value": 4290821.656682846,
+    "threshold_value": 4290821.656682846
+  },
+  {
+    "id": "JM",
+    "value": 10610056.771579301,
+    "threshold_value": 10610056.771579301
+  },
+  {
+    "id": "IT",
+    "value": 230130672.49115407,
+    "threshold_value": 230130672.49115407
+  },
+  {
+    "id": "IL",
+    "value": 26819079.37944097,
+    "threshold_value": 26819079.37944097
+  },
+  {
+    "id": "IS",
+    "value": 1694810.98071959,
+    "threshold_value": 1694810.98071959
+  },
+  {
+    "id": "IR",
+    "value": 592855.3084036384,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "IE",
+    "value": 18452499.75282187,
+    "threshold_value": 18452499.75282187
+  },
+  {
+    "id": "IN",
+    "value": 307950488.55549884,
+    "threshold_value": 307950488.55549884
+  },
+  {
+    "id": "ID",
+    "value": 102184868.33446284,
+    "threshold_value": 102184868.33446284
+  },
+  {
+    "id": "HU",
+    "value": 14567167.240183434,
+    "threshold_value": 14567167.240183434
+  },
+  {
+    "id": "HT",
+    "value": 853022.7713367173,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "HR",
+    "value": 15827848.86249851,
+    "threshold_value": 15827848.86249851
+  },
+  {
+    "id": "HN",
+    "value": 5112659.913136613,
+    "threshold_value": 5112659.913136613
+  },
+  {
+    "id": "HK",
+    "value": 452580072.99292696,
+    "threshold_value": 452580072.99292696
+  },
+  {
+    "id": "GY",
+    "value": 41323980.67527149,
+    "threshold_value": 41323980.67527149
+  },
+  {
+    "id": "GT",
+    "value": 11346072.638401004,
+    "threshold_value": 11346072.638401004
+  },
+  {
+    "id": "GD",
+    "value": 39788.16814736705,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "GR",
+    "value": 13804023.153275114,
+    "threshold_value": 13804023.153275114
+  },
+  {
+    "id": "GQ",
+    "value": 734177.367861162,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "GM",
+    "value": 68366.9014215466,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "GN",
+    "value": 1012042.7831001431,
+    "threshold_value": 1012042.7831001431
+  },
+  {
+    "id": "GH",
+    "value": 10349507.975129249,
+    "threshold_value": 10349507.975129249
+  },
+  {
+    "id": "GE",
+    "value": 7608247.943885923,
+    "threshold_value": 7608247.943885923
+  },
+  {
+    "id": "GA",
+    "value": 3288235.754237788,
+    "threshold_value": 3288235.754237788
+  },
+  {
+    "id": "FR",
+    "value": 343260897.71606356,
+    "threshold_value": 343260897.71606356
+  },
+  {
+    "id": "FJ",
+    "value": 65050.75001272956,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "FI",
+    "value": 50968122.16000846,
+    "threshold_value": 50968122.16000846
+  },
+  {
+    "id": "ET",
+    "value": 59663.83203671658,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "EE",
+    "value": 2014011.94642702,
+    "threshold_value": 2014011.94642702
+  },
+  {
+    "id": "ES",
+    "value": 236024965.54792148,
+    "threshold_value": 236024965.54792148
+  },
+  {
+    "id": "GB",
+    "value": 455212808.5686574,
+    "threshold_value": 455212808.5686574
+  },
+  {
+    "id": "EG",
+    "value": 57468438.829265326,
+    "threshold_value": 57468438.829265326
+  },
+  {
+    "id": "EC",
+    "value": 29822149.83640376,
+    "threshold_value": 29822149.83640376
+  },
+  {
+    "id": "DZ",
+    "value": 12961120.777098779,
+    "threshold_value": 12961120.777098779
+  },
+  {
+    "id": "DO",
+    "value": 11382181.061661225,
+    "threshold_value": 11382181.061661225
+  },
+  {
+    "id": "DK",
+    "value": 16058091.94250519,
+    "threshold_value": 16058091.94250519
+  },
+  {
+    "id": "DM",
+    "value": 79738.64773301194,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "DJ",
+    "value": 46904.10535056938,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "DE",
+    "value": 542507427.1206394,
+    "threshold_value": 542507427.1206394
+  },
+  {
+    "id": "CZ",
+    "value": 16580206.503426386,
+    "threshold_value": 16580206.503426386
+  },
+  {
+    "id": "CY",
+    "value": 1104674.0275402067,
+    "threshold_value": 1104674.0275402067
+  },
+  {
+    "id": "KY",
+    "value": 3765662.1172346394,
+    "threshold_value": 3765662.1172346394
+  },
+  {
+    "id": "CU",
+    "value": 7266258.7168839,
+    "threshold_value": 7266258.7168839
+  },
+  {
+    "id": "CR",
+    "value": 8898410.633560942,
+    "threshold_value": 8898410.633560942
+  },
+  {
+    "id": "KM",
+    "value": 27099.869301622417,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "CO",
+    "value": 58117087.77948071,
+    "threshold_value": 58117087.77948071
+  },
+  {
+    "id": "CK",
+    "value": 13608.596610817078,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "CG",
+    "value": 982966.0999640671,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "CM",
+    "value": 3810763.1995002716,
+    "threshold_value": 3810763.1995002716
+  },
+  {
+    "id": "CI",
+    "value": 4134461.6862626798,
+    "threshold_value": 4134461.6862626798
+  },
+  {
+    "id": "CN",
+    "value": 1346770888.0994678,
+    "threshold_value": 1346770888.0994678
+  },
+  {
+    "id": "CL",
+    "value": 118904782.76663102,
+    "threshold_value": 118904782.76663102
+  },
+  {
+    "id": "CH",
+    "value": 64128415.92171606,
+    "threshold_value": 64128415.92171606
+  },
+  {
+    "id": "CF",
+    "value": 787.5343175713735,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "BE",
+    "value": 245875626.41788948,
+    "threshold_value": 245875626.41788948
+  },
+  {
+    "id": "BW",
+    "value": 43394.78527681021,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "BN",
+    "value": 2285696.6636634055,
+    "threshold_value": 2285696.6636634055
+  },
+  {
+    "id": "BB",
+    "value": 30858.688559978524,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "BR",
+    "value": 72630349.47885136,
+    "threshold_value": 72630349.47885136
+  },
+  {
+    "id": "BO",
+    "value": 2607702.5815630015,
+    "threshold_value": 2607702.5815630015
+  },
+  {
+    "id": "BM",
+    "value": 154734.2482333735,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "BZ",
+    "value": 231847.24116214295,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "BY",
+    "value": 71191.5716869318,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "BS",
+    "value": 132718.4514495104,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "BH",
+    "value": 5525440.014632962,
+    "threshold_value": 5525440.014632962
+  },
+  {
+    "id": "BA",
+    "value": 27897.974699139835,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "BG",
+    "value": 11281382.897628017,
+    "threshold_value": 11281382.897628017
+  },
+  {
+    "id": "BD",
+    "value": 22765674.377074122,
+    "threshold_value": 22765674.377074122
+  },
+  {
+    "id": "BF",
+    "value": 953280.1808185527,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "BJ",
+    "value": 302533.6916317794,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "BI",
+    "value": 117257.3955333476,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "AZ",
+    "value": 467481.287267344,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "AT",
+    "value": 21703498.75516489,
+    "threshold_value": 21703498.75516489
+  },
+  {
+    "id": "AU",
+    "value": 231978228.51886448,
+    "threshold_value": 231978228.51886448
+  },
+  {
+    "id": "AM",
+    "value": 26740.049558196934,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "AR",
+    "value": 50648368.73803649,
+    "threshold_value": 50648368.73803649
+  },
+  {
+    "id": "AE",
+    "value": 167071191.74346802,
+    "threshold_value": 167071191.74346802
+  },
+  {
+    "id": "AL",
+    "value": 1046318.2762680157,
+    "threshold_value": 1046318.2762680157
+  },
+  {
+    "id": "AI",
+    "value": 4199.70883705049,
+    "threshold_value": 1000000
+  },
+  {
+    "id": "AO",
+    "value": 2196004.34892809,
+    "threshold_value": 2196004.34892809
+  },
+  {
+    "id": "AF",
+    "value": 39490.136929856286,
+    "threshold_value": 1000000
+  }
+]

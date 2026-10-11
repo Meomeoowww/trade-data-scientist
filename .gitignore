@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.env
+*.egg-info/
+src/trade_data/bkp
+data/cepii/BACI_HS22_Y2024_V202601.csv
+data/cepii/Gravity_V202211.csv

@@ -1,0 +1,82 @@
+[
+  {
+    "country": "Manufactured products n.e.s",
+    "Export Potential": 1071254500.7061768,
+    "Actual Exports": 840044455.6113899,
+    "Export Potential Threshold": 1071254500.7061768,
+    "Actual Exports Threshold": 840044455.6113899,
+    "Proportion": 0.5604850550277731
+  },
+  {
+    "country": "Processed food & animal feed",
+    "Export Potential": 1215830213.5610657,
+    "Actual Exports": 1963369281.60655,
+    "Export Potential Threshold": 1215830213.5610657,
+    "Actual Exports Threshold": 1963369281.60655,
+    "Proportion": 0.3824328153703874
+  },
+  {
+    "country": "Horticulture",
+    "Export Potential": 1330091258.919532,
+    "Actual Exports": 372419394.9755402,
+    "Export Potential Threshold": 1330091258.919532,
+    "Actual Exports Threshold": 372419394.9755402,
+    "Proportion": 0.7812528255705747
+  },
+  {
+    "country": "Vehicles",
+    "Export Potential": 1417621811.2946303,
+    "Actual Exports": 1141922397.0203123,
+    "Export Potential Threshold": 1417621811.2946303,
+    "Actual Exports Threshold": 1141922397.0203123,
+    "Proportion": 0.5538571307693535
+  },
+  {
+    "country": "Vegetal products n.e.s",
+    "Export Potential": 1429392851.269844,
+    "Actual Exports": 3229702124.7628646,
+    "Export Potential Threshold": 1429392851.269844,
+    "Actual Exports Threshold": 3229702124.7628646,
+    "Proportion": 0.3067962466150441
+  },
+  {
+    "country": "Chemicals",
+    "Export Potential": 1529754174.63606,
+    "Actual Exports": 4451938638.970435,
+    "Export Potential Threshold": 1529754174.63606,
+    "Actual Exports Threshold": 4451938638.970435,
+    "Proportion": 0.2557393404014904
+  },
+  {
+    "country": "Animals & animal products",
+    "Export Potential": 2361137889.7069297,
+    "Actual Exports": 5004256951.877548,
+    "Export Potential Threshold": 2361137889.7069297,
+    "Actual Exports Threshold": 5004256951.877548,
+    "Proportion": 0.32057180103585464
+  },
+  {
+    "country": "Minerals, metals & products thereof",
+    "Export Potential": 2508507138.2560105,
+    "Actual Exports": 2035900338.8733132,
+    "Export Potential Threshold": 2508507138.2560105,
+    "Actual Exports Threshold": 2035900338.8733132,
+    "Proportion": 0.551998726100288
+  },
+  {
+    "country": "Wood, paper, rubber, plastics",
+    "Export Potential": 3429682388.8201222,
+    "Actual Exports": 11360361232.870125,
+    "Export Potential Threshold": 3429682388.8201222,
+    "Actual Exports Threshold": 11360361232.870125,
+    "Proportion": 0.23189129637118466
+  },
+  {
+    "country": "Machinery & electronic equipment",
+    "Export Potential": 3558644332.775171,
+    "Actual Exports": 3272274982.0939193,
+    "Export Potential Threshold": 3558644332.775171,
+    "Actual Exports Threshold": 3272274982.0939193,
+    "Proportion": 0.5209612599330445
+  }
+]
